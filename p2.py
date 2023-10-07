@@ -48,7 +48,7 @@ def select(arr, left, right, k):
 
 
 n = 1000  # Number of elements
-k = 8
+k = 5
 
 
 arr = []
